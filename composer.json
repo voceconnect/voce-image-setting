@@ -1,0 +1,17 @@
+{
+    "name": "voceconnect/voce-image-setting",
+    "description": "Adds option to add an image setting field with Voce_Settings_API",
+    "license": "GPLv2+",
+    "authors": [
+        {
+            "name": "Kevin Langley",
+            "email": "kevin@voceconnect.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+    },
+    "autoload": {
+        "files": ["voce-image-setting.php"]
+    }
+}

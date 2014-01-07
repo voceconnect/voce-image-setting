@@ -8,8 +8,8 @@
             "email": "kevin@voceconnect.com"
         }
     ],
-    "minimum-stability": "stable",
     "require": {
+        "voceconnect/voce-settings-api": "~0.4"
     },
     "autoload": {
         "files": ["voce-image-setting.php"]

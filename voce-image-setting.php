@@ -101,7 +101,7 @@ if ( !class_exists( 'Voce_Image_Setting' ) ){
 				esc_attr($id), esc_attr($setting_page), esc_attr($setting_group), esc_attr($setting_key) );
 
 			if($image)
-				$html .= sprintf( '<img src="%s" /><br/>', esc_url( $src[0] ) );
+				$html .= sprintf( '<img src="%s" style="max-width:500px; height:auto;" /><br/>', esc_url( $src[0] ) );
 
 			$html .= $link . '</div>';
 

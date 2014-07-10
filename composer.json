@@ -1,6 +1,6 @@
 {
     "name": "voceconnect/voce-image-setting",
-    "description": "Adds option to add an image setting field with Voce_Settings_API",
+    "description": "Adds option to add an image setting field with Voce_Settings_API. Deprecated Plugin - Please use https://github.com/voceconnect/voce-media-setting as a replacement for >= WP 3.5 compatibility",
     "license": "GPLv2+",
     "authors": [
         {
